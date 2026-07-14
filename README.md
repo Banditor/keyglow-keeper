@@ -41,7 +41,7 @@ Compatibility depends on Lenovo's model-specific firmware and driver support. Un
 ### Install
 
 1. Open the [latest release](https://github.com/Banditor/keyglow-keeper/releases/latest).
-2. Download `KeyGlowKeeper-v1.0.0.zip` and extract it.
+2. Download `KeyGlowKeeper-v1.0.1.zip` and extract it.
 3. Run `Install.cmd`.
 4. Find the KeyGlow Keeper icon in the notification area. Windows may initially place it under the `^` hidden-icons menu.
 
@@ -86,7 +86,7 @@ The build uses the .NET Framework C# compiler included with Windows and writes r
 ### התקנה
 
 1. פתח את [עמוד הגרסה האחרונה](https://github.com/Banditor/keyglow-keeper/releases/latest).
-2. הורד את `KeyGlowKeeper-v1.0.0.zip` וחלץ אותו.
+2. הורד את `KeyGlowKeeper-v1.0.1.zip` וחלץ אותו.
 3. הפעל את `Install.cmd`.
 4. סמל התוכנה יופיע באזור סמלי המערכת, ולעיתים תחילה תחת החץ `^`.
 

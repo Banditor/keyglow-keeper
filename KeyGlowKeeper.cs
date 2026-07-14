@@ -16,8 +16,8 @@ using Microsoft.Win32;
 [assembly: AssemblyCompany("Banditor")]
 [assembly: AssemblyProduct("KeyGlow Keeper")]
 [assembly: AssemblyCopyright("Copyright © 2026 Banditor")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
 [assembly: ComVisible(false)]
 
 namespace KeyGlowKeeper
@@ -70,7 +70,7 @@ namespace KeyGlowKeeper
 
         public TrayApplicationContext()
         {
-            enabledIcon = Icon.ExtractAssociatedIcon(Application.ExecutablePath) ?? CreateTrayIcon(true);
+            enabledIcon = CreateTrayIcon(true);
             disabledIcon = CreateTrayIcon(false);
 
             menu = new ContextMenuStrip();
