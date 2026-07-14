@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-07-14
+
+- Restored the original yellow light-bulb tray icon while the keeper is active.
+- Kept the branded KeyGlow icon for the executable, Start menu shortcut, and repository.
+
 ## 1.0.0 - 2026-07-14
 
 - Initial public release.
