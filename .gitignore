@@ -1,0 +1,7 @@
+dist/
+tmp/
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
